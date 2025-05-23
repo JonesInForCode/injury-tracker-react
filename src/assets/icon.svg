@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="#3498db" />
+  <circle cx="256" cy="256" r="230" fill="#ffffff" />
+  
+  <!-- First Aid Kit -->
+  <rect x="136" y="176" width="240" height="160" rx="16" fill="#e74c3c" />
+  
+  <!-- White Cross -->
+  <rect x="226" y="156" width="60" height="200" rx="8" fill="#ffffff" />
+  <rect x="156" y="226" width="200" height="60" rx="8" fill="#ffffff" />
+  
+  <!-- Handle -->
+  <path d="M186,176 L186,156 C186,142.745 196.745,132 210,132 L302,132 C315.255,132 326,142.745 326,156 L326,176" fill="none" stroke="#c0392b" stroke-width="12" stroke-linecap="round" />
+</svg>
